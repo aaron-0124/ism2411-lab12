@@ -1,3 +1,16 @@
+# Aaron Nguyen Lab 12
+
+# Reflection 1:
+# Python makes it easier to automate tasks like reading and cleaning large amounts
+# of data without doing everything manually. Excel is easier for quickly viewing
+# and editing data, but Python is better for repeating the same process.
+
+# Reflection 2:
+# A business could use append mode to keep track of daily sales.
+# Append mode is useful because it adds new information without deleting
+# previous records, making it easier to track sales over time.
+
+
 import csv
 from datetime import datetime
 
